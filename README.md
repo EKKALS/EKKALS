@@ -1,4 +1,4 @@
-### Condivido cazzate con voi 👋
+### I'm currently using Python, C# and java. 🔭
 
 <!--
 **EKKALS/EKKALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
